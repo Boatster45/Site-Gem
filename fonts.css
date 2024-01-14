@@ -1,0 +1,15 @@
+@font-face {
+    font-family:ibmbios2y;
+    src:url(/oldschool-pc-fonts/webfonts/ibm_bios-2y.eot);
+    src:url(/oldschool-pc-fonts/webfonts/ibm_bios-2y.eot?#iefix) format('embedded-opentype'),
+    url(/oldschool-pc-fonts/webfonts/ibm_bios-2y.woff2) format('woff2'),
+    url(/oldschool-pc-fonts/webfonts/ibm_bios-2y.woff) format('woff'),
+    url(/oldschool-pc-fonts/webfonts/ibm_bios-2y.ttf) format('truetype');
+    font-weight:400;
+    font-style:normal
+  }
+
+@font-face {
+  font-family: 'MxPlus_IBM_VGA_9x16';
+  src: local('IBM VGA 9x16'), url('MxPlus_IBM_VGA_9x16.ttf');
+  }

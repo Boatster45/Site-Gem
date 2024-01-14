@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'MxPlus IBM VGA 9x16';
+    src: url('MxPlus_IBM_VGA_9x16.woff2') format('woff2'),
+        url('MxPlus_IBM_VGA_9x16.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
