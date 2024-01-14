@@ -1,6 +1,6 @@
 body {
     font-family: 'MxPlus IBM VGA 9x16';
-    font-size: 16px;
+    font-size: 4px;
     background-color: #0e1415;
     color: white;
     margin: 0;
@@ -10,16 +10,16 @@ body {
 header {
     font-family: 'MxPlus IBM VGA 9x16';
     font-size: 30px;
-    background-color: #333;
     color: white;
     text-align: center;
-    padding: 1em;
+    padding: 0;
 }
 
 main {
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
+    background-color: #333;
 }
 
 footer {
@@ -31,3 +31,23 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+.head-box {
+    position: absolute;
+    opacity: 1;
+    top: 6%;
+    left: 50%;
+    transform: translate(-50%, -50%);  
+    width: 50%;
+    height: 8%;
+    background-color: #000000; 
+    color: #ffffff; 
+    padding: 20px; 
+    border: none;
+    border-radius: 10px;
+    text-align: center;
+    margin: 20px;
+    font-size: 12px;
+}    
+
+
