@@ -1,3 +1,3 @@
 layout: page
-title: "Page #1"
+title: "Home Page"
 permalink: /
